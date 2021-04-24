@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.genruntimeconfig.cache
